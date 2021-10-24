@@ -24,3 +24,8 @@
 - Utilização do for..of em JS
 - Consumo de API
 
+#### Visualização do Projeto
+
+[Crachá Virtual]( https://larissamidori.github.io/cracha-nlw-heat/)
+
+
