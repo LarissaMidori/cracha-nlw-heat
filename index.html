@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./assets/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -21,34 +21,34 @@
         <span>
           <img src="./assets/images/build.svg" alt="Selo Rocketseat"/>
         </span>
-        <img src="./assets/images/girassol.jpg" alt="Foto pessoal"/>
+        <img id="userImage" src="./assets/images/girassol.jpg" alt="Foto pessoal"/>
       </div>
 
-      <h1>Sayako</h1>
-      <a href="http://github.com" target="_blank">
+      <h1 id="username">Sayako</h1>
+      <a id="userLink" href="http://github.com" target="_blank">
         <img src="./assets/images/github.svg" alt="ícone github"/>
-        github
+        <span id="userLogin">github</span>
       </a>
-      <p>
+      <p id="userBio">
         An instructor focused on helping people start programming for web
       </p>
-      <ul>
-        <li>
+      <ul id="socialLinks">
+        <li class="twitter">
           <a href="http://twitter.com" target="_blank">
             <img src="./assets/images/twitter.svg" alt="ícone twitter"/>
           </a>
         </li>
-        <li>
+        <li class="youtube">
           <a href="http://youtube.com" target="_blank">
             <img src="./assets/images/youtube.svg" alt="ícone youtube"/>
           </a>
         </li>
-        <li>
+        <li class="instagram">
           <a href="http://instagram.com" target="_blank">
             <img src="./assets/images/instagram.svg" alt="ícone instagram"/>
           </a>
         </li>
-        <li>
+        <li class="facebook">
           <a href="http://facebook.com" target="_blank">
             <img src="./assets/images/facebook.svg" alt="ícone facebook"/>
           </a>
@@ -57,6 +57,8 @@
 
     </div>
   </main>
+
+  <script src="main.js"></script>
   
 </body>
 </html>
