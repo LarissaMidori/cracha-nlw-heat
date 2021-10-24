@@ -1,14 +1,14 @@
-#Projeto criado na trilha origin do NLW HEAT
+# Projeto criado na trilha origin do NLW HEAT 🚀
 
-##Criação de um crachá virtual que pega os dados do usuário através da api do github e os mostra na tela
+## Criação de um crachá virtual que pega os dados do usuário através da api do github e os mostra na tela
 
-###Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 - HTML
 - CSS
 - Javascript
 
-#### O que achei interessante durante as aulas:
+#### O que achei interessante durante as aulas 😊:
 
 - Softskills
 - Hardskills
